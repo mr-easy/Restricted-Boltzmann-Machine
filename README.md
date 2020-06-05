@@ -34,9 +34,9 @@
 	</p>
 
  ## Todo
- - Block Gibbs sampling.
- - Persistent Contrastive Divergence
- - Fast PCD
+ - (Block) Gibbs sampling - take average instead of taking single value.
+ - Persistent Contrastive Divergence.
+ - Fast PCD.
 
  ## References
  [1] [An Introduction to Restricted Boltzmann Machines - Asja Fischer and Christian Igel](https://link.springer.com/chapter/10.1007/978-3-642-33275-3_2)<br />
